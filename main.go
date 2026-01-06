@@ -33,7 +33,7 @@ func main() {
 		// Engedélyezett címek listája
 		allowedOrigins := map[string]bool{
 			"http://localhost:4200":             true,
-			"http://lenovo-e16g2.me.local:4200": true,
+			"http://lenovo.me.local:4200": true,
 		}
 
 		if allowedOrigins[origin] {
