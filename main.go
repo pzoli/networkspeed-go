@@ -2,12 +2,10 @@ package main
 
 import (
 	"crypto/rand"
-	//"fmt"
 	"io"
 	"net/http"
 	"os"
 
-	//"path/filepath"
 	"github.com/gin-gonic/gin"
 )
 
